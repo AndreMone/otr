@@ -1,0 +1,37 @@
+body {
+  margin-left: 10px;
+  width: 60%;
+  font-family: "Estonia", cursive;
+  font-family: "Outfit", sans-serif;
+}
+
+h2 {
+  font-family: "Estonia", cursive;
+  font-family: "Outfit:wght@200", sans-serif;
+}
+
+.carta {
+  position: absolute;
+  top: 30%;
+  right: 10%;
+  width: 250px;
+  height: 150px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.qr {
+  position: absolute;
+  top: 70%;
+  right: 10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1 {
+  text-align: right;
+  margin-top: 100px;
+}
+.nav {
+  width: 100%;
+  position: absolute;
+  top: 0px;
+}
